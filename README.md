@@ -8,7 +8,7 @@ The casks are directly based on the [mactex-no-gui cask](https://github.com/Home
 
 ## Usage
 ```
-brew tap afkjanus/homebrew-mactex-historic
+brew tap afkjanus/mactex-historic
 brew install mactex-no-gui-YYYYMMDD
 ```
 Please adapt `YYYYMMDD` to the desired version of MacTeX.
